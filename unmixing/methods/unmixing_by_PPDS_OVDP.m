@@ -1,3 +1,16 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% This is the demo file of the method proposed in the
+% following reference:
+% 
+% K. Naganuma and S. Ono
+% ``Variable-Wise Diagonal Preconditioning for Primal-Dual Splitting: Design and Applications''
+%
+% Update history:
+% Augast 14, 2023: v1.0 
+%
+% Copyright (c) 2023 Kazuki Naganuma and Shunsuke Ono
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 function results = unmixing_by_PPDS_OVDP( ...
     DATA, ...
     params, ...
