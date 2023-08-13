@@ -14,6 +14,7 @@ For more information, see the following
 
 # How to use
 1. Download datasets from https://drive.google.com/file/d/1p7ePx0e2RUy3uzmnphEw77nrQrglrQcX/view?usp=sharing
+
 2. Run demo codes.
  - For mixed noise removal, run demo_MNR.m
  - For unmixing, run demo_unmixing.m
