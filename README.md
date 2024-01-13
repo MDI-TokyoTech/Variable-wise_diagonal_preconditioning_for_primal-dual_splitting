@@ -9,6 +9,7 @@ Update history:
 Augast 7, 2023: v1.0 
 
 For more information, see the following 
+- Official: https://ieeexplore.ieee.org/document/10215352
 - Project website: https://www.mdi.c.titech.ac.jp/publications/ovdp
 - Preprint paper: https://arxiv.org/abs/2301.08468
 
@@ -29,12 +30,14 @@ The following two files were downloaded at https://epfl-lts2.github.io/gspbox-ht
 If you use this code, please cite the following paper:
 
 ```
-@misc{naganuma2023variablewise,
-      title={Variable-Wise Diagonal Preconditioning for Primal-Dual Splitting: Design and Applications}, 
-      author={Kazuki Naganuma and Shunsuke Ono},
-      year={2023},
-      eprint={2301.08468},
-      archivePrefix={arXiv},
-      primaryClass={eess.SP}
+@ARTICLE{10215352,
+  author={Naganuma, Kazuki and Ono, Shunsuke},
+  journal={IEEE Transactions on Signal Processing}, 
+  title={Variable-Wise Diagonal Preconditioning for Primal-Dual Splitting: Design and Applications}, 
+  year={2023},
+  volume={71},
+  number={},
+  pages={3281-3295},
+  doi={10.1109/TSP.2023.3304789}
 }
 ```
